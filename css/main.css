@@ -60,3 +60,19 @@ table {
 }
 
 /* Piè di pagina */
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    background-image: contain;
+    width: 275px;
+    height: 195px;
+    color: white;
+    padding: 6px;
+}
+.dati {
+    background-image: url(../img/graph.jpg);
+    background-image: contain;
+    width: 275px;
+    height: 195px;
+    color: white;
+    padding: 6px;
+}
