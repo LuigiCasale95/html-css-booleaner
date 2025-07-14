@@ -3,6 +3,7 @@ body {
     max-width: 1080px;
     margin: 0auto;
 }
+
 /* testata-logo */
 .testata {
     background-color: rgb(94, 153, 230);
@@ -16,10 +17,19 @@ body {
     margin-top: 25px;
     width: 15%
 }
-figcaption {
+data {
+    font-size: 10px;
+    color: rgb(119, 117, 114);
 
 }
-figcaption,data {
+.autore {
     color: rgb(119, 117, 114);
     font-size: 13px;
+}
+a {
+    text-decoration: none;
+    color: rgb(39, 224, 224);
+}
+figcaption {
+    font-size: 10px;
 }
