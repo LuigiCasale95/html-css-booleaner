@@ -1,0 +1,25 @@
+/*container*/
+body {
+    max-width: 1080px;
+    margin: 0auto;
+}
+/* testata-logo */
+.testata {
+    background-color: rgb(94, 153, 230);
+    background-image: url(../img/pattern.png);
+    background-size: 265px;
+    height: 70px;
+    ;
+
+}
+.logo {
+    margin-top: 25px;
+    width: 15%
+}
+figcaption {
+
+}
+figcaption,data {
+    color: rgb(119, 117, 114);
+    font-size: 13px;
+}
