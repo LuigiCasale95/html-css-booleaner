@@ -13,6 +13,9 @@ body {
     ;
 
 }
+h1 {
+    margin-bottom: -10px;
+}
 .logo {
     margin-top: 25px;
     width: 15%
@@ -20,11 +23,13 @@ body {
 data {
     font-size: 10px;
     color: rgb(119, 117, 114);
+    margin-bottom: 10px;
 
 }
-.autore {
+h3 {
     color: rgb(119, 117, 114);
-    font-size: 13px;
+    font-size: 15px;
+    margin-bottom: -3px;
 }
 a {
     text-decoration: none;
@@ -53,3 +58,5 @@ table {
 .blue {
     background-color: rgb(49, 255, 255);
 }
+
+/* Piè di pagina */
