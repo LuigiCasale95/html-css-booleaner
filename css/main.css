@@ -55,7 +55,7 @@ table {
 .w25 {
     width: 25%;
 }
-.blue {
+.riga-blue {
     background-color: rgb(49, 255, 255);
 }
 
@@ -63,16 +63,18 @@ table {
 .monitor {
     background-image: url(../img/monitor.jpg);
     background-image: contain;
-    width: 275px;
-    height: 195px;
+    width: 230px;
+    height: 176px;
     color: white;
     padding: 6px;
+    font-size: 24px;
 }
 .dati {
     background-image: url(../img/graph.jpg);
     background-image: contain;
-    width: 275px;
-    height: 195px;
+    width: 230px;
+    height: 176px;
     color: white;
     padding: 6px;
+    font-size: 24px;
 }
